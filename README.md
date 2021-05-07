@@ -8,7 +8,7 @@ Open AVLSDK
 
 ## Documentation
 * [开放引擎接口规范手册_v1.0](doc/开放引擎接口规范手册_v1.0.docx)
-* 
+
 * [Open_AVLSDK Interface Specification Manual_v1.0 ]()
 
 ## Demo

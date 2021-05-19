@@ -1,4 +1,4 @@
-*lua
+##lua
 	
 	Lua is free software distributed under the terms of the MIT license reproduced below; it may be used for any purpose, including commercial purposes, at absolutely no cost without having to ask us. The only requirement is that if you do use Lua, then you should give us credit by including the appropriate copyright notice somewhere in your product or its documentation. For details, see this.
 	Copyright © 1994–2021 Lua.org, PUC-Rio.
@@ -6,7 +6,7 @@
 	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-*openssl
+##openssl
 
 	Copyright 2004-2016 The OpenSSL Project Authors. All Rights Reserved.
 	Licensed under the Apache License 2.0 (the "License").  You may not use
@@ -41,7 +41,7 @@
 	(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 	OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-*zlib
+##zlib
 
 	zlib.h -- interface of the 'zlib' general purpose compression library
 	version 1.2.5.1, September 10th, 2011
@@ -67,7 +67,7 @@
 	Jean-loup Gailly        Mark Adler
 	jloup@gzip.org          madler@alumni.caltech.edu
 	
-*curl
+##curl
 
 	Copyright (C) 1996 - 2021, Daniel Stenberg, <daniel@haxx.se>, et al.
 
@@ -82,7 +82,7 @@
 	This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 	KIND, either express or implied.
 
-*cjson
+##cjson
 
 	Copyright (c) 2009-2017 Dave Gamble and cJSON contributors
 
@@ -104,7 +104,7 @@
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
   
-*md4
+##md4
 
 	Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All
 	rights reserved.

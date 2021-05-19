@@ -1,17 +1,14 @@
 *lua
+	
 	Lua is free software distributed under the terms of the MIT license reproduced below; it may be used for any purpose, including commercial purposes, at absolutely no cost without having to ask us. The only requirement is that if you do use Lua, then you should give us credit by including the appropriate copyright notice somewhere in your product or its documentation. For details, see this.
-
 	Copyright © 1994–2021 Lua.org, PUC-Rio.
 	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
 	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
 	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 *openssl
 
 	Copyright 2004-2016 The OpenSSL Project Authors. All Rights Reserved.
-
 	Licensed under the Apache License 2.0 (the "License").  You may not use
 	this file except in compliance with the License.  You can obtain a copy
 	in the file LICENSE in the source distribution or at
@@ -45,6 +42,7 @@
 	OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 *zlib
+
 	zlib.h -- interface of the 'zlib' general purpose compression library
 	version 1.2.5.1, September 10th, 2011
 
@@ -70,6 +68,7 @@
 	jloup@gzip.org          madler@alumni.caltech.edu
 	
 *curl
+
 	Copyright (C) 1996 - 2021, Daniel Stenberg, <daniel@haxx.se>, et al.
 
 	This software is licensed as described in the file COPYING, which
@@ -84,6 +83,7 @@
 	KIND, either express or implied.
 
 *cjson
+
 	Copyright (c) 2009-2017 Dave Gamble and cJSON contributors
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -105,6 +105,7 @@
 	THE SOFTWARE.
   
 *md4
+
 	Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All
 	rights reserved.
 

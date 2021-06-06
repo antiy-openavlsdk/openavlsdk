@@ -3,16 +3,21 @@ Antiy Open AVL SDK is based on AVLSDK and forms Open AVLSDK through a lightweigh
 
 ## Features 
 (1)Detection capability
+
 	With a large number of virus detection rules, it supports the detection of 8 types of malicious code,such as Trojan, worms, infectious viruses, hacking tools, gray-ware, risk software, test software, junk files, and no less than 50,000 malicious code families.
 	
 (2)Detection speed
+
 	Fast detection speed, return detection result quickly.
 	
 (3)Resource occupancy
+
 	Realize comprehensive detection capabilities under the premise of occupying very few system resources.
 (4)Cross-platform
+
 	Support POSIX standard, can be applied to various system platforms (such as Windows, Linux, etc.) and hardware platforms (such as Intel, Arm, MIPS, etc.).
 (5)Simple API interface
+
 	The API interface is simple and easy to integrate.
 	You only need to simply call the interface to make the product have anti-virus capabilities. 
 

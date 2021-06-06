@@ -34,10 +34,10 @@ Antiy Open AVL SDK is based on AVLSDK and forms Open AVLSDK through a lightweigh
 
 
 ## Default path structure
-* 	Module   Detection module
-*	License   Engine authorization file
-*	Data   Library files required by the engine
-*	interface   The header file used to compile the demo
+* 	Module  - Detection module
+*	License -  Engine authorization file
+*	Data  - Library files required by the engine
+*	interface  - The header file used to compile the demo
 
 
 ## Instructions  
